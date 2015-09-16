@@ -1,7 +1,7 @@
 # LIFX Dash Button
 
 #### Information
-For more information about this project, please visit this blog post: [Amazon Dash + LIFX](Blah)
+For more information about this project, please visit this blog post: [Amazon Dash + LIFX](http://steventso.com/amazon-dash-lifx/)
 
 #### Installation Instructions
 Install NPM packages
