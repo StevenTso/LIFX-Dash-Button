@@ -1,0 +1,15 @@
+{
+  "name": "lifx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steven Tso",
+  "license": "ISC",
+  "dependencies": {
+    "lifx-api": "^1.0.1",
+    "node-dash-button": "^0.1.1"
+  }
+}
